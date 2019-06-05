@@ -39,7 +39,7 @@ spec:
               fieldPath: metadata.name
         - name: "GRAYLOG_ELASTICSEARCH_HOSTS"
           value: "http://elasticsearch:9200/"
-        - name: "GRAYLOT_ELASTICSEARCH_DISCOVERY_ENABLED"
+        - name: "GRAYLOG_ELASTICSEARCH_DISCOVERY_ENABLED"
           value: "true"
         - name: "GRAYLOG_MONGODB_URI"
           value: "mongodb://mongo:27017/graylog"
